@@ -10,8 +10,10 @@
   "author": "Nate Graf",
   "license": "ISC",
   "devDependencies": {
+    "@types/express": "^4.17.2",
     "@types/jest": "^24.0.25",
     "@types/node": "^13.1.4",
+    "express": "^4.17.1",
     "jest": "^24.9.0",
     "ts-jest": "^24.2.0",
     "ts-node": "^8.5.4",
